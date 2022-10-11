@@ -1,0 +1,17 @@
+C:\Users\Mike\RiderProjects\DomainDrivenDesign\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\Users\Mike\RiderProjects\DomainDrivenDesign\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\Mike\RiderProjects\DomainDrivenDesign\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\Mike\RiderProjects\DomainDrivenDesign\Infrastructure\bin\Debug\net6.0\Application.dll
+C:\Users\Mike\RiderProjects\DomainDrivenDesign\Infrastructure\bin\Debug\net6.0\Domain.dll
+C:\Users\Mike\RiderProjects\DomainDrivenDesign\Infrastructure\bin\Debug\net6.0\Application.pdb
+C:\Users\Mike\RiderProjects\DomainDrivenDesign\Infrastructure\bin\Debug\net6.0\Domain.pdb
+C:\Users\Mike\RiderProjects\DomainDrivenDesign\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Mike\RiderProjects\DomainDrivenDesign\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\RiderProjects\DomainDrivenDesign\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mike\RiderProjects\DomainDrivenDesign\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Mike\RiderProjects\DomainDrivenDesign\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mike\RiderProjects\DomainDrivenDesign\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+C:\Users\Mike\RiderProjects\DomainDrivenDesign\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\Users\Mike\RiderProjects\DomainDrivenDesign\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+C:\Users\Mike\RiderProjects\DomainDrivenDesign\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\Users\Mike\RiderProjects\DomainDrivenDesign\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
